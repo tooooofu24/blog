@@ -1,0 +1,5 @@
+## New Post
+
+```
+make new
+```

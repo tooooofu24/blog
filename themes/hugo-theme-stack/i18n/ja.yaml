@@ -1,0 +1,61 @@
+toggleMenu:
+  other: メニューを開く・閉じる
+
+darkMode:
+  other: 🌤️　/　🌙
+
+article:
+  back:
+    other: 前のページ
+
+  tableOfContents:
+    other: 目次
+
+  relatedContent:
+    other: 関連する記事
+
+  lastUpdatedOn:
+    other: 最終更新
+
+  readingTime:
+    one: "{{ .Count }} minute read"
+    other: "{{ .Count }} minute read"
+
+notFound:
+  title:
+    other: 404 Not Found
+  subtitle:
+    other: ページが見つかりませんでした🥺
+
+widget:
+  archives:
+    title:
+      other: アーカイブ
+
+    more:
+      other: More
+
+  tagCloud:
+    title:
+      other: タグ
+
+  categoriesCloud:
+    title:
+      other: カテゴリ
+
+search:
+  title:
+    other: 検索
+
+  placeholder:
+    other: 入力してください
+
+  resultTitle:
+    other: "#PAGES_COUNT 件 （#TIME_SECONDS 秒）"
+
+footer:
+  builtWith:
+    other: Built with {{ .Generator }}
+
+  designedBy:
+    other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
