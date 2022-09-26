@@ -225,3 +225,8 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 4
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
