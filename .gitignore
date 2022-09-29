@@ -72,3 +72,6 @@ public
 .hugo_build.lock
 
 resources/_gen
+
+# Google Search Console
+static/google6cd1d771cec713fc.html
